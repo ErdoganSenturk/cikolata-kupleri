@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(238, 212, 180);
+}
+h2{
+    color: brown;
+}
+span{
+    color: brown;
+}
+.brown{
+    text-align: center;
+}
+.ilk{
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+    width: 250px;
+}
+.second{
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+    width: 190px;
+}
+div{
+    margin-left: 20vw;
+}
+h3{
+    direction: rtl;
+    margin-right: 20vw;
+}
